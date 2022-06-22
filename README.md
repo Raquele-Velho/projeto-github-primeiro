@@ -1,3 +1,8 @@
 # projeto-github-primeiro
 Desafio de projetos github
-Projeto dio git/github dio
+
+
+##link uteis 
+[sintaxe  basica Markdown](https://www.markdownguide.org/)
+
+
